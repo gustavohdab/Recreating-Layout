@@ -1,6 +1,12 @@
 # Desafio avançado - Recriando layout
 
-My version: https://casualmente.github.io/Recreating-Layout/
+Minha versão: https://casualmente.github.io/Recreating-Layout/
+
+## 🛠 Tecnologias
+
+- HTML
+- CSS
+- Github
 
 # 💻 Sobre o desafio
 
