@@ -1,5 +1,7 @@
 # Desafio avançado - Recriando layout
 
+My version: https://casualmente.github.io/Recreating-Layout/
+
 # 💻 Sobre o desafio
 
 Nesse desafio, você deverá recriar uma aplicação, a partir de um layout, para treinar o que aprendeu até agora no **Stage 02**.
@@ -7,6 +9,7 @@ Nesse desafio, você deverá recriar uma aplicação, a partir de um layou
 ## Figma da aplicação
 
 O figma da aplicação está disponível no [**link**](https://www.figma.com/file/EdKjPWjC8ZlbnH4XzTObv2/Explorer/duplicate) abaixo:
+![image](https://user-images.githubusercontent.com/112674398/193140230-00b5eb40-66ab-4ce4-8f26-a5ebe5424e20.png)
 
 [https://www.figma.com/embed?embed_host=notion&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FEdKjPWjC8ZlbnH4XzTObv2%2FExplorer%3Fnode-id%3D16%253A106](https://www.figma.com/embed?embed_host=notion&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FEdKjPWjC8ZlbnH4XzTObv2%2FExplorer%3Fnode-id%3D16%253A106)
 
